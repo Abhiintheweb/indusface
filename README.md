@@ -1,4 +1,4 @@
-# indusface
+# Indusface
 
 Installation
 ```
