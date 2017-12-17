@@ -1,0 +1,5 @@
+https://www.google.com
+https://www.indusface.com/products 
+http://does.not.exist/test
+http://api.faasos.com/
+https://api.faasos.io/
